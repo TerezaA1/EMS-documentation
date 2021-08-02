@@ -59,3 +59,6 @@ StandaloneHTMLBuilder.supported_image_types = [
     'image/png',
     'image/jpeg'
 ]
+
+extensions = ['rst2pdf.pdfbuilder']
+pdf_documents = [('index', u'EMS_docs', u'Energy Managment Portal’s Documentation', u'Tereza Abelova')]

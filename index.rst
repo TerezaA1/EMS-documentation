@@ -3,10 +3,12 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+
 Energy Managment Portal's Documentation
 =======================================
 
 Welcome to Energy managment portal's documentation. Here you can find a user manual to all functions of the portal.
+
 
 Introduction
 ------------
@@ -20,7 +22,8 @@ The energy managment system (EMS) is a platform for viewing, oprating and parame
 
 
 Getting started
-```````````````
+~~~~~~~~~~~~~~~
+
 Please go to `teslablueplanet.eu <https://teslablueplanet.eu/>`_ and log in into the system with your email address and password:
 
 .. image:: /images/login.*
