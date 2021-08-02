@@ -10,7 +10,7 @@ Welcome to Energy managment portal's documentation. Here you can find a user man
 
 Introduction
 ------------
-The energy managment portal (EMP) is a platform for viewing, oprating and parametrizing the microgrids. It shows real-time data from the site alongside forecasts and optimized operation of the microgrid. The microgrid can consist of loads, energy storage system and/or power generation plants. The portal has access to the central microgrid contoller, which is responsible for optimal operation and power flows of the system.
+The energy managment system (EMS) is a platform for viewing, oprating and parametrizing the microgrids. It shows real-time data from the site alongside forecasts and optimized operation of the microgrid. The microgrid can consist of loads, energy storage system and/or power generation plants. The portal has access to the central microgrid contoller, which is responsible for optimal operation and power flows of the system.
 
 .. toctree::
    :maxdepth: 2
