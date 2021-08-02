@@ -51,3 +51,11 @@ html_logo = 'images/logo.svg'
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
+
+from sphinx.builders.html import StandaloneHTMLBuilder
+StandaloneHTMLBuilder.supported_image_types = [
+    'image/gif',
+    'image/svg+xml',
+    'image/png',
+    'image/jpeg'
+]
