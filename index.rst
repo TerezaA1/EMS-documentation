@@ -24,7 +24,6 @@ Getting started
 Please go to `teslablueplanet.eu <https://teslablueplanet.eu/>`_ and log in into the system with your email address and password:
 
 .. image:: /images/login_ani.gif
-.. image:: /images/login.png
 
 |
 
