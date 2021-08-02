@@ -11,6 +11,6 @@ In photovoltaics panel section a user can preview daily power production of the 
 Historical data are available for browsing.
 
 .. image:: /images/PVhistory.png
-.. image:: /images/PVhistory.gif
+.. image:: /images/r.png
 
 |
