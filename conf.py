@@ -67,3 +67,6 @@ StandaloneHTMLBuilder.supported_image_types = [
 
 # extensions = ['rst2pdf.pdfbuilder']
 # pdf_documents = [('index', u'EMS_docs', u'Energy Managment Portal’s Documentation', u'Tereza Abelova')]
+
+def setup(app):
+    app.add_css_file('custom_color.css')
