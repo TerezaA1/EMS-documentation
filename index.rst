@@ -15,7 +15,7 @@ Introduction
 The energy managment system (EMS) is a platform for viewing, oprating and parametrizing the microgrids. It shows real-time data from the site alongside forecasts and optimized operation of the microgrid. The microgrid can consist of loads, energy storage system and/or power generation plants. The portal has access to the central microgrid contoller, which is responsible for optimal operation and power flows of the system.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :hidden:
 
    self
@@ -33,7 +33,7 @@ It depends on the user role which functions are accessible. The system operator 
 The functions are documented as they appear on the left pane in the EMS portal:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    content/microgrid_overview
    content/PVpanels
