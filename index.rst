@@ -32,7 +32,7 @@ Please go to `teslablueplanet.eu <https://teslablueplanet.eu/>`_ and log in into
 
 It depends on the user role which functions are accessible. The system operator have access to all basic functionalities of the portal, can view telemetry data and foracasts, try different optimization scenarios and see simulation. The process admin has on top of the operator's rights also access to microgrid setup and battery models database with the option of parametrization.
 
-The functions are documented as they appear on the left pane in the portal:
+The functions are documented as they appear on the left pane in the EMS portal:
 
 .. toctree::
    :maxdepth: 2
