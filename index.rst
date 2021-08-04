@@ -24,11 +24,11 @@ The energy managment system (EMS) is a platform for viewing, oprating and parame
 Getting started
 ~~~~~~~~~~~~~~~
 
-Please go to `teslablueplanet.eu <https://teslablueplanet.eu/>`_ and log in into the system with your email address and password:
+Please go to `teslablueplanet.eu <https://teslablueplanet.eu/>`_ and log in to the system with your email address and password:
 
 .. image:: /images/login.*
 
-It depends on the user role which functions are accessible. The system operator have access to all basic functionalities of the portal, can view telemetry data and foracasts, try different optimization scenarios and see simulation. The process admin has on top of the operator's rights also access to microgrid setup and battery models database with the option of parametrization.
+It depends on the user role which functions are accessible. The system operator have access to all basic functionalities of the portal, can view telemetry data and foracasts, try different optimization scenarios and see simulation. The process admin has on top of the operator's rights also access to the microgrid setup options and battery model database.
 
 The functions are documented as they appear on the left pane in the EMS portal:
 
