@@ -7,7 +7,7 @@ The forecasts page shows all necessary predictions. Microgrid's energy managment
 Weather Forecasts
 ~~~~~~~~~~~~~~~~~
 
-Weather forecast has informative character and might be used for PV power predictions. On the page is possible to specify starting date and time of the prediction, choose external forecast service from the available (currently `Tomorrow.io <https://www.tomorrow.io/weather/>`_) and select multiple variables to plot. Up to 5 days of weather forecast can be shown in the graph and downloaded in csv or json format.
+Weather forecast has informative character and might be used for PV power predictions. On the page is possible to specify starting date and time of the prediction, choose external forecast service from the available (currently `Tomorrow.io <https://www.tomorrow.io/weather/>`_) and select multiple variables to plot. Up to 5 days (adjustable in :doc:`microgrid setup </content/MGsetup>`) of weather forecast are shown in the graph and can be downloaded in csv or json format.
 
 .. image:: /images/forecast_weather.PNG
 
