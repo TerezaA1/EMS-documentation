@@ -25,14 +25,14 @@ Local controller setup allows to adjust polling intervals from telemetry and ext
 
 .. image:: /images/setup_controller.PNG
    :align: center
-   :scale: 70 %
+   :scale: 75 %
 
 .. image:: /images/setup_comap.PNG
    :align: center
-   :scale: 70 %
+   :scale: 75 %
 
 Forecast services page permits user to set up weather, PV power and local load predictions parameters, such as polling intervals and number of days to forecast. It is possible to choose from available external service providers.
 
 .. image:: /images/setup_forecast.PNG
    :align: center
-   :scale: 70 %
+   :scale: 60 %
