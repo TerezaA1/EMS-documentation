@@ -26,6 +26,7 @@ Here is evaluated precision of the forecasts. Historical predictions are compare
 
 .. image:: /images/forecast_compare.PNG
 
+.. _load-forecast:
 
 Local Load Forecast
 ~~~~~~~~~~~~~~~~~~~
