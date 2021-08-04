@@ -44,12 +44,12 @@ Before running optimization, the user can check current measured values of PV, l
 Visualization
 ~~~~~~~~~~~~~
 
-The results of optimization are shown in the graphs.
+The results of optimal power schedule are visualised in the graphs. First plot shows grid import/export compared with load demand profile, together with other power sources (PV, CHP). Red dashed line indicates capacity cap. The bottom plot shows which power sources and to what extent will be used to provide energy for demand.
 
 .. image:: /images/opt_plot_load.PNG
 
-.. image:: /images/opt_plot_mix.PNG
+Battery power flows are shown in th bar graph, where charging intervals are positive and discharging are negative. At the bottom is state of charge (green) with upper and lower bounds.
 
 .. image:: /images/opt_plot_battery.PNG
 
-
+Hover over the figures to show data values or look at the table below.
