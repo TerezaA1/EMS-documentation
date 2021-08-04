@@ -44,7 +44,7 @@ Before running optimization, the user can check current measured values of PV, l
 Visualization
 ~~~~~~~~~~~~~
 
-The results of optimal power schedule are visualised in the graphs. First plot shows grid import/export compared with load demand profile, together with other power sources (PV, CHP). Red dashed line indicates capacity cap. The bottom plot shows which power sources and to what extent will be used to provide energy for demand.
+The results of optimal power schedule are visualised in the graphs. First plot shows grid import/export compared with load demand profile, together with other power sources (PV, CHP). Red dashed line indicates capacity cap (other color legend appears on the right side). The bottom plot shows which power sources and to what extent will be used to provide energy for demand.
 
 .. image:: /images/opt_plot_load.PNG
 
