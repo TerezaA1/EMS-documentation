@@ -11,6 +11,8 @@ Weather forecast has informative character and might be used for PV power predic
 
 .. image:: /images/ver02/forecast_weather.PNG
 
+|
+
 
 PV Output Forecast
 ~~~~~~~~~~~~~~~~~~
@@ -18,6 +20,8 @@ PV Output Forecast
 Similary, the PV power output is displayed and forecast service can be selected (external `Solcast <https://solcast.com/>`_ or internal AMOS forecast).
 
 .. image:: /images/forecast_PV.PNG
+
+|
 
 
 PV Forecast Validation
@@ -27,6 +31,8 @@ Precision of the forecasts is evaluated, historical predictions are compared wit
 
 .. image:: /images/ver02/forecast_compare.PNG
 
+|
+
 .. _load-forecast:
 
 Local Load Forecast
@@ -35,3 +41,5 @@ Local Load Forecast
 Load power demand prediction are based on historical data and the model is updated regulary with the most recent measurements. Model is created using `Prophet <https://facebook.github.io/prophet/>`_ library, suitable for time series forecasting with seasonal effects. Prophet's additive regression algoritm takes trends, seasonal effects and holidays into the account. The user can change number of days to predict, starting date and sampling time. Results are shown in the polot with the confidence interval.
 
 .. image:: /images/forecast_load.PNG
+
+|
