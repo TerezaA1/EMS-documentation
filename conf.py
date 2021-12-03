@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Energy managment portal'
+project = 'AMOS'
 copyright = '2021, Tereza Abelova'
 author = 'Tereza Abelova'
 

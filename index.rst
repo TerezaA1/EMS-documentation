@@ -4,15 +4,15 @@
    contain the root `toctree` directive.
 
 
-Energy Managment Portal's Documentation
+AMOS Documentation
 =======================================
 
-Welcome to Energy managment portal's documentation. Here you can find a user manual to all functions of the portal.
+Welcome to the AMOS (Advanced Microgrid Operation System) documentation. Here you can find a user manual to all functions of the portal.
 
 
 Introduction
 ------------
-The energy managment system (EMS) is a platform for viewing, oprating and parametrizing the microgrids. It shows real-time data from the site alongside forecasts and optimized operation of the microgrid. The microgrid can consist of loads, energy storage system and/or power generation plants. The portal has access to the central microgrid contoller, which is responsible for optimal operation and power flows of the system.
+The AMOS is a web platform for viewing, oprating and parametrizing the microgrids. It shows real-time data from the site alongside forecasts and optimized operation of the microgrid. The microgrid can consist of loads, energy storage system and/or power generation plants. The portal has access to the central microgrid contoller, which is responsible for optimal operation and power flows of the system.
 
 .. toctree::
    :maxdepth: 1
@@ -24,22 +24,18 @@ The energy managment system (EMS) is a platform for viewing, oprating and parame
 Getting started
 ~~~~~~~~~~~~~~~
 
-Please go to `teslablueplanet.eu <https://teslablueplanet.eu/>`_ and log in to the system with your email address and password:
+Please go to `teslablueplanet.eu <https://teslablueplanet.eu/>`_ page, select the Energy managment portal and log in to the system with your email address and password:
 
-.. image:: /images/login.*
+.. image:: /images/ver02/index.*
+
 
 It depends on the user role which functions are accessible. The system operator have access to all basic functionalities of the portal, can view telemetry data and foracasts, try different optimization scenarios and see simulation. The process admin has on top of the operator's rights also access to the microgrid setup options and battery model database.
 
-The functions are documented as they appear on the left pane in the EMS portal:
+This user manual provides description of the visual elements in the interface. The functions are documented as they appear on the left pane in the AMOS portal:
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
-   content/microgrid_overview
-   content/PVpanels
-   content/telemetry
-   content/forecasts
-   content/RTO
-   content/DAP
-   content/MGsetup
-   content/battery
+   content/ver02/microgrid
+   content/ver02/forecasts
+   content/ver02/digital_twin
