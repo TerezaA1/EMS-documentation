@@ -15,13 +15,11 @@ Main navigation is in side bar menu, where each page has top navigation panel.
 
 Overview
 ~~~~~~~~
-Main screen shows online visualization of the power flows in the microgrid together with actual battery state of charge, PV power generation and other grid parameters.
+Main screen shows online visualization of the power flows in the microgrid together with actual battery state of charge, PV power generation and other grid parameters. In the topology editor, user can modify what will be shown at this page.
 
 .. image:: /images/ver02/overview.gif
 
 |
-
-In the topology editor, a user can modify what will be shown at this page.
 
 
 Dashboard

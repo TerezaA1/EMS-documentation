@@ -36,6 +36,8 @@ This user manual provides description of the visual elements in the interface. T
 .. toctree::
    :maxdepth: 2
 
-   content/ver02/microgrid
-   content/ver02/forecasts
-   content/ver02/digital_twin
+   content/microgrid
+   content/forecasts
+   content/digital_twin
+   content/commissioning
+   content/database

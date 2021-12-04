@@ -46,20 +46,19 @@ The microgrid can also contain and utilize a combined heat and power (CHP) unit.
 
 |
 
-
-
+Select desired functionalities that microgid will perform, it is possible to try different combinations to see their impact in the simulation.
 
 .. image:: /images/ver02/opt_functionalities.PNG
 
 |
 
+Choose method how the microgrid provides flexibility.
+
 .. image:: /images/ver02/opt_flexibility.PNG
 
 |
 
-
-
-Before running optimization, the user can check current measured values of PV, load and battery.
+Before running optimization, the user can check and adjust current measured values of PV, load and battery.
 
 .. image:: /images/ver02/opt_measurements.PNG
 
@@ -75,10 +74,10 @@ The results of optimal power schedule are visualised in the graphs. First plot s
 
 |
 
-Battery power flows are shown in th bar graph, where charging intervals are positive and discharging are negative. At the bottom is state of charge (green) with upper and lower bounds.
+Battery power flows are shown in th bar graph, where charging intervals are positive and discharging are negative. At the bottom is state of charge (green) with upper and lower bounds. Hover over the figures to show data values or look at the table below.
 
 .. image:: /images/opt_plot_battery.PNG
 
 |
 
-Hover over the figures to show data values or look at the table below.
+
