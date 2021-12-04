@@ -12,7 +12,7 @@ Welcome to the AMOS (Advanced Microgrid Operation System) documentation. Here yo
 
 Introduction
 ------------
-The AMOS is a web platform for viewing, oprating and parametrizing the microgrids. It shows real-time data from the site alongside forecasts and optimized operation of the microgrid. The microgrid can consist of loads, energy storage system and/or power generation plants. The portal has access to the central microgrid contoller, which is responsible for optimal operation and power flows of the system.
+The AMOS is a web platform for viewing, operating and parametrizing microgrids. It shows real-time data from the site alongside forecasts and optimized operation of the microgrid. The microgrid can consist of loads, energy storage systems and/or power generation plants. The portal has access to the central microgrid controller, which is responsible for optimal operation and power flows of the system.
 
 .. toctree::
    :maxdepth: 1
@@ -24,14 +24,14 @@ The AMOS is a web platform for viewing, oprating and parametrizing the microgrid
 Getting started
 ~~~~~~~~~~~~~~~
 
-Please go to `teslablueplanet.eu <https://teslablueplanet.eu/>`_ page, select the Energy managment portal and log in to the system with your email address and password:
+Please go to `teslablueplanet.eu <https://teslablueplanet.eu/>`_ page, select the Energy management portal and log in to the system with your email address and password:
 
 .. image:: /images/ver02/index.*
 
 
-It depends on the user role which functions are accessible. The system operator have access to all basic functionalities of the portal, can view telemetry data and foracasts, try different optimization scenarios and see simulation. The process admin has on top of the operator's rights also access to the microgrid setup options and battery model database.
+It depends on the user role which functions are accessible. The system operator has access to all basic functionalities of the portal, can view telemetry data and forecasts, try different optimization scenarios and see the simulation. The process admin has on top of the operator's rights also access to the microgrid setup options and battery model database.
 
-This user manual provides description of the visual elements in the interface. The functions are documented as they appear on the left pane in the AMOS portal:
+This user manual provides a description of the visual elements in the web interface. The functions are documented as they appear on the left pane in the AMOS portal:
 
 .. toctree::
    :maxdepth: 2
